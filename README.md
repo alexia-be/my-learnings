@@ -18,6 +18,7 @@ my-learnings/
 
 | Project | What it is | Tools |
 |---|---|---|
-| [Contact Book REST API](./contact-book-api) | A REST API to list, get, create, update, and delete contacts | Python, Flask, Postman |
+| [Contact Book REST API](./01-contact-book-api) | A REST API to list, get, create, update, and delete contacts | Python, Flask, Postman |
+| [Social Media API](./02-social-media-fastapi) | A REST API to create, read, update, and delete posts, stored in a PostgreSQL database (work in progress) | Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Postman |
 
 I'll add new projects to this table as I finish them.
